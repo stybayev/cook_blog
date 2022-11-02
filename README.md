@@ -2,9 +2,7 @@
 
 
 **Ссылки**:
-- [Telegram](https://t.me/trueDjangoChannel)
-- [Сайт](https://djangochannel.com)
-- [YouTube](https://www.youtube.com/channel/UC_hPYclmFCIENpMUHpPY8FQ?view_as=subscriber)
+- [Telegram](https://t.me/ddos_att)
 
 ### Описание проекта:
 Блог шеф-повара с рецептами
@@ -51,7 +49,6 @@
 
 [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
 
-Copyright (c) 2021-present, DJWOMS - Omelchenko Michael
-
+Copyright (c) 2022-present, DJWOMS - Omelchenko Michael
 
 
