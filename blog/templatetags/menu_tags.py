@@ -16,8 +16,7 @@ def get_list_category():
 
 @register.inclusion_tag('blog/include/tags/top_menu.html')
 def get_categories():
-    # category = get_all_categories()
-    category = Category.objects.all().filter(parent__isnull=True)
+    category = get_all_categories()
     return {"list_category": category}
 
 
